@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ahIStzAEm1NpN6UwPBtLHPC5djLMDMAA8TolI7UOsqc=",
+  "Source": "JenkinsTESTAPP",
+  "BasePath": "_content/JenkinsTESTAPP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

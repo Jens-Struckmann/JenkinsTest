@@ -1,0 +1,11 @@
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\JenkinsTESTAPP.exe
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\JenkinsTESTAPP.dll
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\JenkinsTESTAPP.deps.json
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\JenkinsTESTAPP.runtimeconfig.json
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\JenkinsTESTAPP.pdb
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jens.hansen\source\repos\JenkinsTESTAPP\JenkinsTESTAPP\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
